@@ -1,0 +1,327 @@
+.data1{
+    width: 140%;    
+    margin: auto;
+    margin-left: -180px;
+}
+.img{
+    width: 100%;
+    height: 250px;
+    border-radius: 5px;
+}
+.data2{    
+    width: 50%;
+    margin-right: 10px;
+}
+.p2{
+    color: rgb(97, 96, 96);
+}
+.data3{
+    
+    width: 100%;
+    margin-right: 10px;
+}
+.img3{
+    width: 100%;
+    height: 250px;
+    border-radius: 5px;
+}
+#data4{    
+  display: flex;
+  gap: 10px;
+  overflow-x: scroll;
+
+}
+#H3{
+    color:#009270 ;
+}
+#aa{
+    text-decoration: none;
+    color: black;
+}
+.lnk{
+    color: black;
+}
+#p2{
+    color: rgb(97, 96, 96);
+}
+
+#p3{
+   margin-left: 6px;
+}
+
+#logindiv{
+    width: 34%;
+    margin: auto;
+}
+
+#h1{
+    text-align: center;
+}
+#loginp{
+    text-align: center;
+}
+
+#inpt{
+    border: transparent;
+    height: 26px;
+    width: 100%;
+    background-color: transparent;
+}
+#inputdiv{
+  margin-top: 50px;
+  display:flex;
+  width: 100%;
+  height: 30px;
+  }
+  #box{
+  margin-top: 50px;
+  display:flex; 
+  }
+  #cbox{
+      font-size: 14px;
+  }
+  #btn{
+      background-color: #009270;
+      color: white;
+      width: 70%;
+      height: 30px;
+      border: transparent;
+      border-radius: 3px;
+      text-align: center;
+      margin-left: 30px;
+      margin-top: 20px;
+      cursor: pointer;
+  }
+
+  .news {  
+  display: flex;
+  gap: 10px;
+  overflow-x: scroll;
+}
+.imgns{
+  width: 240px;
+  height: 140px;
+}
+.p23{
+    font-size: 13px;
+}
+#headg{
+    width: 240px;
+}
+
+.editorials{
+    display: flex;
+    gap: 10px;
+    width: 90%;
+    height: 240px;
+}
+#cont{
+    width: 65%;
+}
+.img11{
+width: 30%;
+height: 70%;
+}
+#cnum{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    margin-left: 10px;
+}
+#num{
+    margin-left: 10px;
+}
+#cnum>input{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 33px;
+    width: 10%;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 2px;
+}
+
+#btns{
+      background-color: #009270;
+      color: white;
+      width: 70%;
+      height: 30px;
+      border: transparent;
+      border-radius: 3px;
+      text-align: center;
+      margin-left: 45px;
+      margin-top: 20px;
+      cursor: pointer;
+  }
+  #reotp{
+      text-decoration: none;
+      color: #3a84df;
+  }
+  #rept{
+      text-align: center;
+      
+  }
+
+  #lath{
+      margin-top: 200px;
+  }
+
+  #title{
+      background-color: rgb(194, 194, 194);
+      width: 600px;
+      height: 40px;
+  }
+  .news1 {  
+  margin-left: auto; 
+ 
+}
+#datevenue{
+    display: flex;
+    gap: 10px;
+    margin-left: 15px;
+}
+#tleh3{
+    margin-left: 10px;
+    padding: 5px;
+}
+#tleh4{
+    margin-left: 10px;
+    padding: 5px;
+}
+#title2{
+      background-color: #cccccc;
+      width: 100%;
+      height: 40px;
+  }
+  #sts{
+      display: flex;
+      justify-content: space-between;
+      margin-left: 15px;
+      margin-right: 15px;
+  }
+
+  #venue{
+     padding-top: 5px;
+  }
+  #title6{
+      display: flex;
+      gap: 20px;
+      margin-top: 10px;
+  }
+  #flag{
+      width: 100%;
+      height: 100%;
+  }
+  #flagdiv{
+      width: 60px;
+      height: 60px;      ;
+  }
+  .data6{
+      display: grid;
+      grid-template-columns: repeat(2,1fr);
+      grid-gap: 20px;
+  }
+  .dataphots{
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      grid-gap: 20px;
+  }
+  .dataphots>div{
+      border-radius: 5px;
+      background-color: #333333;
+  }
+  .imgphotos{
+      width: 100%;
+      height: 70%;
+      border-radius: 5px;
+  }
+
+  .dataphotos{
+  margin-top: 150px;   
+  width: 80%;  
+  margin: auto;  
+  margin-top: 20px;
+}
+.photogallery{
+  margin-top: 50px;
+  background-color: #333333;
+}
+#btnsphoto{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;   
+padding-bottom: 10px;
+}
+#twter{
+background-color: #3a84df;
+width: 100px;
+height: 30px;   
+border: transparent;  
+border-radius: 3px;  
+color: white; 
+cursor: pointer;                              
+}
+#facebook{
+background-color: #325a97;
+width: 100px;
+height: 30px;   
+border: transparent;  
+border-radius: 3px; 
+color: white;
+cursor: pointer;                            
+}
+.imgpr{
+    width: 40%;
+height: 40%;
+border-radius: 5px;
+}
+.privicaycb{
+    display: flex;
+    gap: 10px;
+}
+#rankimgbox{
+display: flex;
+gap: 10px;
+}
+.ranking{
+    display: grid;
+    grid-template-columns: repeat(3,1fr); 
+    margin-left: 20px;   
+}
+#headrank{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);  
+    width: 75%;    
+    height: 50px;  
+    background-color: #cccccc;
+    margin-top: 10px;
+    grid-gap: 20px;
+   
+}
+.imgrankg{
+    width: 100%;
+    height: 100%;    
+    border-radius: 6px;
+}
+#imgboxxx{
+    width: 80px;
+    height: 80px;
+    padding-top: 20px;
+    border-radius: 6px;
+}
+#rankpy{
+    margin-left: 130px;
+}
+#rankp{
+    margin-left: 10px;
+}
+#rankr{
+    margin-left: 170px;
+    margin-right: 10px;
+}
+#dr{
+    margin-top: 40px;
+}
+#fa{
+    line-height: 30px;
+}
